@@ -1,0 +1,7 @@
+plugin: redhat.satellite.foreman
+url: https://sbransible-satellite6.example.com
+user: admin
+password: redhat
+want_facts: True
+want_params: True
+validate_certs: False
